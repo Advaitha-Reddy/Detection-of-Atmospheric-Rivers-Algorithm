@@ -2,7 +2,7 @@
 This repository contains code for detecting Atmospheric Rivers (ARs) over the Indian subcontinent using reanalysis, satellite, and forecast datasets. <br>
 The project was developed as part of a research internship at NRSC, ISRO, under the mentorship of Mrs. Shivali Verma (Scientist/Engineer-SE). <br>
 
-📌 Overview
+📌 Overview <br>
 Atmospheric Rivers (ARs) are long, narrow corridors of intense moisture transport responsible for extreme precipitation and flood events. While ARs have been well studied globally, their role in India's changing climate remains underexplored.
 
 This project presents a comprehensive AR detection pipeline customized for the Indian region. The detection framework:
@@ -15,7 +15,7 @@ Identifies, filters, and characterizes AR events
 
 Supports both retrospective and near-real-time analysis
 
-📂 Key Features
+📂 Key Features <br>
 🔍 Object-based AR Detection using dynamic thresholding and IVT geometry
 
 🗺️ AR Axis Tracing and calculation of length, width, landfall metrics
