@@ -28,18 +28,21 @@ Supports both retrospective and near-real-time analysis
 
 🗃️ GeoTIFF Export for use in GIS tools (e.g., QGIS)
 
-🛰️ Datasets Used
+🛰️ Datasets Used <br>
 ERA5 Reanalysis (ECMWF) – IVT, IWV
 
 GFS Forecast Data – For forward-looking detection
 
 INSAT-3D/3DR – High-resolution TPW over India
 
-AMSR2 (GCOM-W1) – Oceanic TPW
+AMSR2 (GCOM-W1) – Oceanic TPW 
 
-Region of interest: 50°E–100°E, -15°N–40°N, focusing on Gujarat and Kerala
+<br>
 
-🛠️ Tools & Libraries
+Region of interest: 50°E–100°E, -15°N–40°N, focusing on Gujarat and Kerala  
+
+
+🛠️ Tools & Libraries <br>
 Python (NumPy, SciPy, Matplotlib, Cartopy, NetCDF4, h5py, pygrib)
 
 QGIS – Visualization of GeoTIFF outputs
@@ -48,7 +51,8 @@ Paramiko & FileZilla – For SFTP data access from MOSDAC (INSAT)
 
 Anaconda + Spyder – Development environment
 
-🧪 Methodology Highlights
+🧪 Methodology Highlights  
+
 Compute IVT from wind and humidity across pressure levels
 
 Apply percentile-based IVT threshold (e.g., 85th percentile)
@@ -71,18 +75,8 @@ Visualize snapshots with AR contours, axes, and metadata
 
 Download & visualize TPW from INSAT & AMSR2 for comparison
 
-📊 Sample Output
-AR Detection on June 20, 2024 (Monsoon):
 
-Strong AR over Arabian Sea impacting Gujarat/Kerala
-
-Satellite TPW validation using INSAT & AMSR2
-
-AR Detection on Jan 12, 2020 (Winter):
-
-Long, narrow AR approaching western coast
-
-🧱 Limitations
+🧱 Limitations  
 Satellite gaps and inconsistencies (cloud cover, swath gaps)
 
 Fixed IVT thresholds may miss events in some seasons
@@ -102,3 +96,15 @@ Guan & Waliser (2015, 2019) – Global AR detection methodology
 NOAA, NASA Earthdata, ECMWF, IMD – Data providers
 
 See my project report in the report section for full methodology
+
+
+
+
+
+📊 Sample Output  <br>
+
+
+AR Detection on June 20, 2024 (Monsoon):
+
+
+
