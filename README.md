@@ -100,11 +100,3 @@ See my project report in the report section for full methodology
 
 
 
-
-📊 Sample Output  <br>
-
-
-AR Detection on June 20, 2024 (Monsoon):
-
-
-
