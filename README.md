@@ -1,6 +1,6 @@
-🌧️ Automated Detection of Atmospheric Rivers over India
-This repository contains code for detecting Atmospheric Rivers (ARs) over the Indian subcontinent using reanalysis, satellite, and forecast datasets. 
-The project was developed as part of a research internship at NRSC, ISRO, under the mentorship of Mrs. Shivali Verma (Scientist/Engineer-SE).
+🌧️ Automated Detection of Atmospheric Rivers over India <br>
+This repository contains code for detecting Atmospheric Rivers (ARs) over the Indian subcontinent using reanalysis, satellite, and forecast datasets. <br>
+The project was developed as part of a research internship at NRSC, ISRO, under the mentorship of Mrs. Shivali Verma (Scientist/Engineer-SE). <br>
 
 📌 Overview
 Atmospheric Rivers (ARs) are long, narrow corridors of intense moisture transport responsible for extreme precipitation and flood events. While ARs have been well studied globally, their role in India's changing climate remains underexplored.
